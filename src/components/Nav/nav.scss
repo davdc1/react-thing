@@ -1,0 +1,19 @@
+.nav-wrapper {
+    height: 70px;
+    width: calc(100% - 5vw + 7px);
+    border: solid rgb(82, 72, 72) 4px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .nav-links-container {
+        display: flex;
+        justify-content: space-between;
+
+        width: 280px;
+    }
+}

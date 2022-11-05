@@ -1,0 +1,17 @@
+
+.home-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 95vw;
+    margin-top: 90px;
+    align-self: stretch;
+    border: 4px orange solid;
+    background-color: bisque;
+
+
+    .popup-input {
+        margin-bottom: 30px;
+    }
+}

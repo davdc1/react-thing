@@ -1,0 +1,10 @@
+.popup-outer {
+    &.example {
+        .popup {
+            .example-popup {
+                display: flex;
+                justify-content: center;
+            }
+        }
+    } 
+}

@@ -1,0 +1,14 @@
+
+.popup-outer {
+    &.example2 {
+        .popup {
+            width: 400px;
+            height: 250px;
+            background-color: rgba(186, 128, 128, 0.591);
+            .example-popup2 {
+                display: flex;
+                justify-content: center;
+            }
+        }
+    } 
+}
